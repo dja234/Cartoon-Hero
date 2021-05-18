@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #d146E5;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+header h1{
+	color: white;
+}
+
+header img{4
+border-radius: 150px
+width: 300px;
+}
